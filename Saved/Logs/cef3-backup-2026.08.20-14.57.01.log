@@ -1,0 +1,42 @@
+[19480:18428:0820/205224.053:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[19480:16888:0820/205224.135:ERROR:google_update_settings.cc(265)] Failed opening key Software\Chromium to set usagestats; result: 5
+[19480:18428:0820/205224.146:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[19480:18428:0820/205233.027:ERROR:device_event_log_impl.cc(196)] [20:52:32.886] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[21824:16576:0820/205235.636:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-685C21A0485433396D9376A14A0E88BD will be ignored
+[24176:8368:0820/205237.781:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24176:1376:0820/205237.822:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24176:1376:0820/205237.822:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[24176:1376:0820/205237.822:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19480:10336:0820/205238.982:WARNING:browser_info.cc(345)] Returning a speculative frame for [8,9]
+[19480:18428:0820/205248.642:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19480:18428:0820/205248.642:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19480:18428:0820/205248.642:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19480:18428:0820/205248.642:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[19480:10336:0820/205248.659:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[1904:10116:0820/205250.637:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[1904:21144:0820/205250.687:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[1904:21144:0820/205250.688:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[1904:21144:0820/205250.688:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[1904:10116:0820/205256.025:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17476:14528:0820/205510.005:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[11676:12564:0820/212941.611:WARNING:spdy_session.cc(2985)] Received HEADERS for invalid stream 3
+[17476:14528:0820/212941.648:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[30536:24288:0820/212942.573:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30536:21660:0820/212942.595:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30536:21660:0820/212942.595:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[30536:21660:0820/212942.596:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19480:10336:0820/212943.799:WARNING:browser_info.cc(345)] Returning a speculative frame for [13,9]
+[19480:18428:0820/212945.057:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[19480:18428:0820/212945.057:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[19480:18428:0820/212945.057:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[19480:18428:0820/212945.057:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[19480:10336:0820/212945.062:WARNING:browser_info.cc(345)] Returning a speculative frame for [14,9]
+[28124:1896:0820/212946.205:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28124:25724:0820/212946.236:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28124:25724:0820/212946.236:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28124:25724:0820/212946.237:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[28124:1896:0820/212949.571:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17476:14528:0820/213200.840:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[11676:12564:0820/221025.854:WARNING:spdy_session.cc(2717)] Received RST for invalid stream1
+[19480:18428:0820/223035.638:ERROR:device_event_log_impl.cc(196)] [22:30:35.308] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 找不到元素。 (0x490)
+[19480:18428:0820/225701.228:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
